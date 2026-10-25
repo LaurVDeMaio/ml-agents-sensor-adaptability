@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or these models, please cite the paper below."
+title: "Adaptability of Unity ML-Agents Sensors for Dynamic Game Environments"
+authors:
+  - family-names: DeMaio
+    given-names: Lauren
+    affiliation: Pace University
+  - family-names: Guida
+    given-names: Carmine
+    affiliation: Pace University
+preferred-citation:
+  type: conference-paper
+  title: "Adaptability of Unity ML-Agents Sensors for Dynamic Game Environments"
+  authors:
+    - family-names: DeMaio
+      given-names: Lauren
+    - family-names: Guida
+      given-names: Carmine
+  conference:
+    name: "EXAG 2026: AIIDE Workshop on Experimental AI in Games"
+  collection-title: "CEUR Workshop Proceedings"
+  year: 2026
