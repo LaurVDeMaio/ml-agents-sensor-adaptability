@@ -1,10 +1,12 @@
 # Adaptability of Unity ML-Agents Sensors for Dynamic Game Environments
 
+By Lauren DeMaio and Dr Carmine Guida.
+
 Unity project for comparing how four ML-Agents sensor types (raycast, camera, grid, and buffer) handle increasing environmental complexity post training.
 
 A reinforcement learning agent is trained with PPO to catch a scripted player before it reaches a goal, in an arena with one obstacle. Each trained agent is then tested with 1 to 5 obstacles to see how well it adapts to layouts it never saw during training. In our tests, the raycast agent held up best as obstacles were added, and the buffer agent degraded the most.
 
-This work was presented at EXAG 2026 (AIIDE Workshop on Experimental AI in Games). By Lauren DeMaio and Dr Carmine Guida.
+This work was presented at EXAG 2026 (AIIDE Workshop on Experimental AI in Games). 
 
 ## What's included
 
